@@ -1,1 +1,2 @@
-print("This is main.py")
+def hello():
+    print("Hello Git")
